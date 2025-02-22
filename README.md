@@ -40,15 +40,3 @@
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-FFB900?logo=yolo&logoColor=white)
 
 ---
-
-## 🔥 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jahanzebriaz&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahanzebriaz&theme=radical" alt="GitHub Streak Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahanzebriaz&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-
-
