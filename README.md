@@ -10,3 +10,7 @@
 🔹 Databases: FAISS, Pinecone, ChromaDB, MySQL  
 🔹 Frameworks & Tools: Streamlit, FastAPI, OpenCV, PyTorch, Hugging Face  
 🔹 Cloud & APIs: Groq API, Nvidia NIM, Google Gemini  
+
+### Badges & Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
