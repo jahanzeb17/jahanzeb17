@@ -11,7 +11,6 @@
 
 ## 🌐 **Socials:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahanzeb-riaz/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/jahanzebriaz)
 
 ---
 
@@ -42,8 +41,14 @@
 
 ---
 
-## 🔥 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jahanzebriaz&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahanzebriaz&layout=compact)  
+## 🔥 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jahanzebriaz&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahanzebriaz&theme=radical" alt="GitHub Streak Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahanzebriaz&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 
 
