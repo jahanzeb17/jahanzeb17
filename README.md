@@ -1,16 +1,12 @@
-## Hi there 👋
+### Hi there! 👋 I'm Jahanzeb Riaz
+🚀 **Machine Learning Engineer | AI Enthusiast | Open-Source Contributor**  
+🎓 **IT Student at Shaheed Benazir Bhutto University**  
+🔬 **Building AI Agents & RAG-based applications**  
+🏆 **Top Voice of Artificial Intelligence on LinkedIn**  
 
-<!--
-**jahanzeb17/jahanzeb17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+🔹 Programming: Python, SQL, JavaScript  
+🔹 AI & ML: LangChain, LangGraph, RAG, LLMs (Llama, Gemma), OpenAI, YOLOv8  
+🔹 Databases: FAISS, Pinecone, ChromaDB, MySQL  
+🔹 Frameworks & Tools: Streamlit, FastAPI, OpenCV, PyTorch, Hugging Face  
+🔹 Cloud & APIs: Groq API, Nvidia NIM, Google Gemini  
