@@ -33,7 +33,7 @@
 
 ## **📊 GitHub Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jahanzebriaz&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahanzebriaz&layout=compact)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahanzeb17&layout=compact)  
 
 ---
 
