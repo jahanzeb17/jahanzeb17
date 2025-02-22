@@ -1,46 +1,51 @@
 <h1 align="center">Hi there! 👋 I'm Jahanzeb Riaz</h1>
 
-🎓 **IT Student at Shaheed Benazir Bhutto University**  
-🤖 **Machine Learning Engineer Intern | AI Enthusiast | Open-Source Contributor**  
-🏆 **Top Voice of Artificial Intelligence on LinkedIn**  
-🚀 **Building AI Agents & RAG-based applications**  
-📌 **Learning & Implementing AI, RAG, and Generative AI solutions**  
+## 👨‍💻 About Me:
+- 🚀 **Aspiring AI Engineer | Machine Learning Intern**
+- 🎓 **Undergraduate IT Student at Shaheed Benazir Bhutto University**
+- 🏆 **Top Voice of Artificial Intelligence on LinkedIn**
+- 🤖 **Passionate about AI, RAG, and Generative AI applications**
+- 🌍 **Building AI-driven solutions to solve real-world problems**
 
 ---
 
-## **💡 Skills & Tech Stack**
-🔹 **Programming:** Python, SQL, JavaScript  
-🔹 **AI & ML:** LangChain, LangGraph, RAG, LLMs (Llama, Gemma), OpenAI, YOLOv8  
-🔹 **Databases:** FAISS, Pinecone, ChromaDB, MySQL  
-🔹 **Frameworks & Tools:** Streamlit, FastAPI, OpenCV, PyTorch, Hugging Face  
-🔹 **Cloud & APIs:** Groq API, Nvidia NIM, Google Gemini  
+## 🌐 **Socials:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahanzeb-riaz/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/jahanzebriaz)
 
 ---
 
-## **🛠 Notable Projects**
-### 🚀 **AI & RAG-Based Projects**
-- **📈 Investment Banking Chatbot** – AI chatbot for finance-related queries.  
-- **📚 Multi-PDF RAG Chatbot** – Processes multiple documents using vector search.  
-- **🔎 Face Recognition System** – Detects and recognizes faces with YOLOv8.  
-- **📜 AI Essay Generator** – Generates essays for students using LLMs.  
+## 💻 **Tech Stack:**
+### **Languages & AI Frameworks**
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-orange?logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-green?logo=chain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-blue?logo=graph&logoColor=white)
 
-### 🖼 **Computer Vision Projects**
-- **🎯 Object Detection with YOLOv8** – Identifies and classifies objects from images/videos.  
-- **📷 ID Card & Face Detection** – University student ID verification system using YOLO.  
-- **🚗 Car Counter System** – Counts vehicles using YOLOv8 and OpenCV.  
+### **Machine Learning & RAG**
+![OpenAI](https://img.shields.io/badge/OpenAI-0080FF?logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-F9A03C?logo=huggingface&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama-6A5ACD?logo=meta&logoColor=white)
+![Gemma](https://img.shields.io/badge/Gemma-0A66C2?logo=google&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?logo=google&logoColor=white)
+
+### **Databases & Vector Search**
+![FAISS](https://img.shields.io/badge/FAISS-green?logo=faiss&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-blue?logo=pinecone&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-purple?logo=database&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white)
+
+### **Computer Vision**
+![OpenCV](https://img.shields.io/badge/OpenCV-5C2D91?logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-FFB900?logo=yolo&logoColor=white)
 
 ---
 
-## **📊 GitHub Stats**
+## 🔥 **GitHub Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jahanzebriaz&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahanzeb17&layout=compact)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahanzebriaz&layout=compact)  
 
 ---
 
-## **📬 Connect with Me**
-🔗 **LinkedIn**: [Jahanzeb Riaz](https://www.linkedin.com/in/jahanzeb-riaz/)  
-🔗 **GitHub**: [github.com/jahanzebriaz](https://github.com/jahanzebriaz)  
-
----
-
-✨ **"Learning never stops – always experimenting with AI & ML!"** 🚀
+🚀 **"Exploring AI, RAG, and Computer Vision – One Project at a Time!"**
