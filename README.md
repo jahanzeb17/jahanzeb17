@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Jahanzeb Riaz</h1>
 
 ## 👨‍💻 About Me:
-- 🚀 **Aspiring AI Engineer | Machine Learning Intern**
+- 🚀 **AI Engineer Intern at SOC Solutions LLC**
 - 🎓 **Undergraduate IT Student at Shaheed Benazir Bhutto University**
 - 🏆 **Top Voice of Artificial Intelligence on LinkedIn**
 - 🤖 **Passionate about AI, RAG, and Generative AI applications**
@@ -46,6 +46,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jahanzebriaz&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahanzebriaz&layout=compact)  
 
----
 
-🚀 **"Exploring AI, RAG, and Computer Vision – One Project at a Time!"**
