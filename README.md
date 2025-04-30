@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Jahanzeb Riaz</h1>
 
 ## 👨‍💻 About Me:
-- 🚀 **AI Engineer Intern at SOC Solutions LLC**
+- 🚀 **AI Engineer Intern at Botmer International**
 - 🎓 **Undergraduate IT Student at Shaheed Benazir Bhutto University**
 - 🏆 **Top Voice of Artificial Intelligence on LinkedIn**
 - 🤖 **Passionate about AI, RAG, and Generative AI applications**
