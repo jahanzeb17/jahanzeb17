@@ -5,10 +5,10 @@
 
 I'm an aspiring **AI Engineer** passionate about building intelligent systems that make a difference.
 
-💡 I specialize in **Machine Learning**, **Generative AI**, and **Retrieval-Augmented Generation (RAG)**, with a deep interest in solving real-world problems using cutting-edge tools.
-
-🌟 Join me on this **AI-driven journey** as I explore the evolving landscape of artificial intelligence and share what I build along the way!
-
+## 🚀 What I Do
+- 💡 Specialize in **Machine Learning**, **Generative AI**, and **Retrieval-Augmented Generation (RAG)**
+- 🤖 Build AI-driven solutions to tackle real-world problems
+- 🧠 Explore cutting-edge techniques in **NLP**, **RAG pipelines**, and **AI Agents**
 
 ---
 
