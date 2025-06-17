@@ -1,11 +1,14 @@
 <h1 align="center">Hi there! 👋 I'm Jahanzeb Riaz</h1>
 
 ## 👨‍💻 About Me:
-- 🚀 **AI Engineer Intern at Botmer International**
-- 🎓 **Undergraduate IT Student at Shaheed Benazir Bhutto University**
-- 🏆 **Top Voice of Artificial Intelligence on LinkedIn**
-- 🤖 **Passionate about AI, RAG, and Generative AI applications**
-- 🌍 **Building AI-driven solutions to solve real-world problems**
+# 👋 Hello! I'm Jahanzeb Riaz
+
+I'm an aspiring **AI Engineer** passionate about building intelligent systems that make a difference.
+
+💡 I specialize in **Machine Learning**, **Generative AI**, and **Retrieval-Augmented Generation (RAG)**, with a deep interest in solving real-world problems using cutting-edge tools.
+
+🌟 Join me on this **AI-driven journey** as I explore the evolving landscape of artificial intelligence and share what I build along the way!
+
 
 ---
 
