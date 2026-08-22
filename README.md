@@ -8,21 +8,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=jahanzeb17&show_icons=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="github stats" width="49%" />
 
 <br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahanzeb17&layout=compact&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F" alt="top languages" width="50%" />
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/jahanzeb-riaz/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:jahanzeb1782@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
-</a>
-&nbsp;&nbsp;
-<a href="https://jazzy-portfolio-beta.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=A78BFA&labelColor=0A101F" alt="Portfolio" />
-</a>
-
-</div>
